@@ -1,9 +1,11 @@
 #!/bin/sh
-
+#
+# Copyright 2013 Eamon Banta
+#
 # update_branches - A script to update a pre-defined list of mercurial
 #                        repositories to new branch.
 #
-# Usage: update_repo_branches BRANCH_NUMBER ROOT_DIR [FILENAME] [LOG]
+# Usage: update_branches BRANCH_NUMBER ROOT_DIR [FILENAME] [LOG]
 
 ##### Constants
 
